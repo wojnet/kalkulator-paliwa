@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kalkulator-paliwa/static/css/main.cbf94280.css",
+    "main.js": "/kalkulator-paliwa/static/js/main.379a5ad3.js",
+    "index.html": "/kalkulator-paliwa/index.html",
+    "main.cbf94280.css.map": "/kalkulator-paliwa/static/css/main.cbf94280.css.map",
+    "main.379a5ad3.js.map": "/kalkulator-paliwa/static/js/main.379a5ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf94280.css",
+    "static/js/main.379a5ad3.js"
+  ]
+}
